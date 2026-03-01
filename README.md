@@ -1,15 +1,68 @@
-# 💫 About Me:
-I'm currently intern at The rd group of industries<br>I'm looking to collaborate on web dev projects<br>I'm currently learning Ai full stack web development<br>
+👋 Hi, I'm Mehul Pal
 
+🚀 Full Stack Developer (MERN) | BCA Student | Future AI-Integrated Engineer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehulpal12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehulpal12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpal12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a passionate web developer focused on building scalable, real-world applications using the MERN stack. I enjoy solving complex problems, writing clean and maintainable code, and continuously improving my technical and personal growth.
 
----
-[![](https://visitcount.itsvg.in/api?id=mehulpal12&icon=0&color=0)](https://visitcount.itsvg.in)
+I come from a business background but chose software development because I believe technology gives freedom, scalability, and global opportunities.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 About Me
+
+🎯 Focused on building scalable, user-centric web applications
+
+💡 Strong believer in consistency, discipline, and deep learning
+
+🛠️ Building projects to strengthen full-stack fundamentals
+
+📈 Preparing for remote and high-paying software engineering roles
+
+🧠 Learning AI integration in web applications
+
+📚 Currently Working On
+
+🚀 Advanced MERN stack projects
+
+🧠 Backend optimization & system design fundamentals
+
+🤖 Integrating AI features into web apps
+
+💬 Improving interview communication skills
+
+🌱 Currently Learning
+
+🏗️ Clean Architecture & Design Patterns
+
+⚙️ System Design & Scalability
+
+🔥 Advanced JavaScript & TypeScript
+
+🤖 AI + Web Development Integration
+
+🧠 Discipline, mindset & long-term consistency
+
+🛠️ Tech Stack
+Languages: JavaScript, TypeScript
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Version Control: Git, GitHub
+Tools: Postman, VS Code
+Currently Exploring: AI APIs, System Design
+📈 My Goal
+
+To become a high-level full-stack engineer capable of building scalable systems and securing a strong remote position in a product-based company.
+
+📬 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/mehul-pal-3ab6891b2/
+
+📧 Email:mehulpal7678@gmail.com
+
+⚡ Personal Philosophy
+
+Discipline beats talent when talent doesn’t show up.
+Consistency compounds. Small efforts daily create massive outcomes.
+
+🔥 Open to Opportunities
+
+I’m actively looking for internships, freelance work, collaborations, and entry-level full-stack roles where I can contribute, learn, and grow fast.
