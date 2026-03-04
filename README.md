@@ -65,4 +65,4 @@ Consistency compounds. Small efforts daily create massive outcomes.
 
 🔥 Open to Opportunities
 
-I’m actively looking for internships, freelance work, collaborations, and entry-level full-stack roles where I can contribute, learn, and grow fast.
+I’m actively looking for internships, freelance work, collaborations, and entry-level full-stack roles where I can contribute, learn, and grow faster.
