@@ -28,8 +28,6 @@ I come from a business background but chose software development because I belie
 
 💬 Improving interview communication skills
 
-🌱 Currently Learning
-
 🏗️ Clean Architecture & Design Patterns
 
 ⚙️ System Design & Scalability
