@@ -1,6 +1,6 @@
 👋 Hi, I'm Mehul Pal
 
-🚀 Full Stack Developer (MERN) | BCA Student | Future AI-Integrated Engineer
+🚀 Full Stack Developer (MERN) | Future AI-Integrated Engineer
 
 I’m a passionate web developer focused on building scalable, real-world applications using the MERN stack. I enjoy solving complex problems, writing clean and maintainable code, and continuously improving my technical and personal growth.
 
